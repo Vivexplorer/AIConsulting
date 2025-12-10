@@ -24,7 +24,7 @@ export function CTA() {
                 size="lg"
                 className="bg-white text-blue-600 hover:bg-slate-50 shadow-lg hover:shadow-xl transition-all duration-300 text-lg px-8 py-6"
               >
-                Start Your Free Trial
+                Transform your Business Today
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
               <Button
