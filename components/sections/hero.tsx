@@ -18,7 +18,7 @@ export function Hero() {
           <div className="inline-flex items-center space-x-2 bg-white/80 backdrop-blur-sm border border-blue-200 rounded-full px-4 py-2 mb-8 shadow-lg">
             <Sparkles className="w-4 h-4 text-blue-600" />
             <span className="text-sm font-medium text-slate-700">
-              Introducing BusinessBuilderAI v2.0
+              Introducing BusinessBuilderAI
             </span>
             <Zap className="w-4 h-4 text-cyan-600" />
           </div>
@@ -31,8 +31,8 @@ export function Hero() {
           </h1>
 
           <p className="text-xl text-slate-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-            Elevate your workflow with cutting-edge technology. Build faster, scale smarter,
-            and deliver exceptional results that exceed expectations.
+            Smart solutions for marketing, websites, ads, and growth 
+            tailored for small and medium businesses.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
