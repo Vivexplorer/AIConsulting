@@ -26,12 +26,12 @@ export function Hero() {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-slate-900 mb-6 leading-tight">
             Transform Your
             <span className="block bg-gradient-to-r from-blue-600 via-cyan-600 to-blue-600 bg-clip-text text-transparent">
-              Digital Experience
+              Local Business
             </span>
           </h1>
 
           <p className="text-xl text-slate-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-            Smart solutions for marketing, websites, ads, and growth 
+            Smart AI-Powered solutions for marketing, websites, ads, and growth 
             tailored for small and medium businesses.
           </p>
 
