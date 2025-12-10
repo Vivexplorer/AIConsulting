@@ -16,13 +16,13 @@ const features = [
   },
   {
     icon: Layers,
-    title: '- Ad Management & Automation',
+    title: 'Ad Management & Automation',
     description: 'Smarter ads across Google, Facebook, and Instagram with real-time insights.',
     color: 'from-blue-500 to-cyan-500',
   },
   {
     icon: BarChart3,
-    title: '- Customer Engagement Tools',
+    title: 'Customer Engagement Tools',
     description: 'Chatbots, personalized emails, and loyalty programs that keep customers coming back.',
     color: 'from-teal-500 to-teal-600',
   },
