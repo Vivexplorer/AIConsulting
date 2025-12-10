@@ -14,10 +14,10 @@ export function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-4xl sm:text-5xl font-bold text-slate-900 mb-6">
-              Built for Modern Teams
+              Built for Modern Businesses
             </h2>
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              Nexus empowers teams of all sizes to collaborate seamlessly, automate workflows,
+              BusinessBuilderAI empowers teams of all sizes to collaborate seamlessly, automate workflows,
               and deliver exceptional results. Our platform combines intuitive design with
               powerful functionality to help you achieve your goals faster.
             </p>
