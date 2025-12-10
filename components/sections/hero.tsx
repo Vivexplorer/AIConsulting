@@ -18,7 +18,7 @@ export function Hero() {
           <div className="inline-flex items-center space-x-2 bg-white/80 backdrop-blur-sm border border-blue-200 rounded-full px-4 py-2 mb-8 shadow-lg">
             <Sparkles className="w-4 h-4 text-blue-600" />
             <span className="text-sm font-medium text-slate-700">
-              Introducing Nexus v2.0
+              Introducing BusinessBuilderAI v2.0
             </span>
             <Zap className="w-4 h-4 text-cyan-600" />
           </div>
