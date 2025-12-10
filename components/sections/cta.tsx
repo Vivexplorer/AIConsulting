@@ -16,7 +16,7 @@ export function CTA() {
               Ready to Get Started?
             </h2>
             <p className="text-xl text-blue-100 mb-10 max-w-2xl mx-auto">
-              Join thousands of teams already using Nexus to transform their workflow
+              Join thousands of teams already using BusinessBuilderAI to transform their workflow
               and achieve remarkable results.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
