@@ -32,11 +32,11 @@ export function CTA() {
                 variant="outline"
                 className="border-2 border-white text-white hover:bg-white/10 transition-all duration-300 text-lg px-8 py-6"
               >
-                Schedule a Demo
+                Schedule a Free Demo
               </Button>
             </div>
             <p className="text-blue-100 mt-8 text-sm">
-              No credit card required • 14-day free trial • Cancel anytime
+              No credit card required • Cancel anytime
             </p>
           </div>
         </div>
