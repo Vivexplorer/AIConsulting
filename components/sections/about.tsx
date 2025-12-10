@@ -1,10 +1,9 @@
 import { CheckCircle2 } from 'lucide-react';
 
 const benefits = [
-  'Reduce operational costs by up to 40%',
-  'Increase team productivity and collaboration',
+  'Live ad management with no work needed',
+  'Increase social media presence',
   'Scale effortlessly with growing demands',
-  'Access 24/7 priority support and resources',
 ];
 
 export function About() {
