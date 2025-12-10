@@ -4,32 +4,32 @@ import { Card, CardContent } from '@/components/ui/card';
 const features = [
   {
     icon: Zap,
-    title: 'Lightning Fast',
-    description: 'Optimized performance with sub-second load times and instant updates across all devices.',
+    title: 'Marketing Made Smarter',
+    description: 'AI-driven campaigns that target the right customers at the right time.',
     color: 'from-blue-500 to-blue-600',
   },
   {
     icon: Shield,
-    title: 'Enterprise Security',
-    description: 'Bank-level encryption and compliance with industry standards to keep your data safe.',
+    title: 'Website Creation & Optimization ',
+    description: 'Sleek, mobile-friendly sites designed to convert visitors into loyal clients.',
     color: 'from-cyan-500 to-cyan-600',
   },
   {
     icon: Layers,
-    title: 'Seamless Integration',
-    description: 'Connect with your favorite tools and platforms through our robust API ecosystem.',
+    title: '- Ad Management & Automation',
+    description: 'Smarter ads across Google, Facebook, and Instagram with real-time insights.',
     color: 'from-blue-500 to-cyan-500',
   },
   {
     icon: BarChart3,
-    title: 'Advanced Analytics',
-    description: 'Gain actionable insights with real-time data visualization and reporting tools.',
+    title: '- Customer Engagement Tools',
+    description: 'Chatbots, personalized emails, and loyalty programs that keep customers coming back.',
     color: 'from-teal-500 to-teal-600',
   },
   {
     icon: Globe,
-    title: 'Global Scale',
-    description: 'Deploy worldwide with our CDN network ensuring low latency for all users.',
+    title: 'Data-Driven Insights ',
+    description: 'Actionable analytics to guide smarter decisions and maximize ROI.',
     color: 'from-sky-500 to-sky-600',
   },
   {
