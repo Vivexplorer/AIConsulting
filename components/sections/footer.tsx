@@ -37,7 +37,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-cyan-500 rounded-lg flex items-center justify-center">
                 <Rocket className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold">Nexus</span>
+              <span className="text-xl font-bold">BusinessBuilderAI</span>
             </div>
             <p className="text-slate-400 mb-6">
               Transforming the way teams work together.
@@ -131,7 +131,7 @@ export function Footer() {
 
         <div className="border-t border-slate-800 pt-8">
           <p className="text-center text-slate-400">
-            © 2024 Nexus. All rights reserved.
+            © 2024 BusinessBuilderAI. All rights reserved.
           </p>
         </div>
       </div>
