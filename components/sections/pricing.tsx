@@ -30,7 +30,7 @@ const plans = [
     ],
     popular: true,
   },``
-  {
+  ,
     name: 'Enterprise',
     price: '100',
     description: 'For large organizations',
