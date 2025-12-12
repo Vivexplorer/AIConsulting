@@ -17,8 +17,8 @@ const plans = [
     popular: false,
   },
   {
-    name: 'Professional',
-    price: '79',
+    name: 'Full AI Start Up',
+    price: '1000',
     description: 'For growing teams and businesses',
     features: [
       'Up to 25 team members',
