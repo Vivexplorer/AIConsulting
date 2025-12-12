@@ -2,6 +2,13 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { CheckCircle2 } from 'lucide-react';
 
+const scrollToSection = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+      setIsMobileMenuOpen(false);
+    }
+
 const plans = [
   {
     name: 'Consultation + Demo',
@@ -46,6 +53,8 @@ const plans = [
     ],
     popular: false,
   },
+
+  
 ];
 
 export function Pricing() {
