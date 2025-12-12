@@ -10,8 +10,8 @@ const plans = [
     price: '0',
     description: 'Perfect for all businesses',
     features: [
-      'Up to 5 team members',
-      '10 GB storage',
+      'Full Introduction to BusinessBuilderAI',
+      'Consultation on AI marketing products for your business',
     ],
     popular: false,
   },
