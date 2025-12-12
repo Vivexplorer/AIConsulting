@@ -29,10 +29,10 @@ const plans = [
       'Custom workflows',
     ],
     popular: true,
-  },
+  },``
   {
     name: 'Enterprise',
-    price: '199/month',
+    price: '100',
     description: 'For large organizations',
     features: [
       'Unlimited team members',
@@ -103,6 +103,7 @@ export function Pricing() {
                   ))}
                 </ul>
                 <Button
+                  onClick={() => scrollToSection('about')}
                   className={`w-full ${
                     plan.popular
                       ? 'bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white'
