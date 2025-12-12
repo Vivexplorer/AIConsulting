@@ -5,7 +5,7 @@ const testimonials = [
   {
     name: 'Sarah Johnson',
     role: 'CTO at TechCorp',
-    content: 'Nexus has transformed how our team collaborates. The seamless integration and intuitive interface made adoption effortless.',
+    content: 'BusinessBuilderAI has transformed how our team collaborates. The seamless integration and intuitive interface made adoption effortless.',
     rating: 5,
   },
   {
