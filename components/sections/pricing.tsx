@@ -4,9 +4,9 @@ import { CheckCircle2 } from 'lucide-react';
 
 const plans = [
   {
-    name: 'Starter',
-    price: '29',
-    description: 'Perfect for individuals and small teams',
+    name: 'Consultation + Demo',
+    price: '0',
+    description: 'Perfect for all businesses',
     features: [
       'Up to 5 team members',
       '10 GB storage',
