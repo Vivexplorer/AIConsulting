@@ -29,7 +29,7 @@ const plans = [
       'Custom workflows',
     ],
     popular: true,
-  },``,
+  },``
   {
     name: 'Enterprise',
     price: '100',
