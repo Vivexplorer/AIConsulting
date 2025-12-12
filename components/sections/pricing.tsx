@@ -87,7 +87,7 @@ export function Pricing() {
                   <span className="text-5xl font-bold text-slate-900">
                     ${plan.price}
                   </span>
-                  <span className="text-slate-600">/month</span>
+                  <span className="text-slate-600"></span>
                 </div>
               </CardHeader>
               <CardContent className="pb-8">
