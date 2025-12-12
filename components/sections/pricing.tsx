@@ -17,11 +17,11 @@ const plans = [
   },
   {
     name: 'Full AI Start Up',
-    price: '1000',
+    price: '2,000',
     description: 'For growing teams and businesses',
     features: [
-      'Up to 25 team members',
-      '100 GB storage',
+      'Website Creation',
+      'Ad Creation Set Up',
       'Advanced analytics',
       'Priority support',
       'All integrations',
