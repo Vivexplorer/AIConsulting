@@ -29,7 +29,7 @@ const plans = [
       'Custom workflows',
     ],
     popular: true,
-  },``
+  },``,
   {
     name: 'Enterprise',
     price: '100',
@@ -107,7 +107,7 @@ export function Pricing() {
                     plan.popular
                       ? 'bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white'
                       : 'bg-slate-900 hover:bg-slate-800 text-white'
-                  }}
+                  }`}
                   size="lg"
                 >
                   Get Started
