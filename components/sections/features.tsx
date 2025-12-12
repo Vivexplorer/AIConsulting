@@ -22,8 +22,8 @@ const features = [
   },
   {
     icon: BarChart3,
-    title: 'Customer Engagement Tools',
-    description: 'Chatbots, personalized emails, and loyalty programs that keep customers coming back.',
+    title: 'AI - Phone Caller',
+    description: 'Let our AI-powered phone assistant connect with your customers, answer questions, and book appointments — all while saving you time and growing your business.',
     color: 'from-teal-500 to-teal-600',
   },
   {
