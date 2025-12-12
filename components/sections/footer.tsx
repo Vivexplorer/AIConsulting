@@ -131,7 +131,7 @@ export function Footer() {
 
         <div className="border-t border-slate-800 pt-8">
           <p className="text-center text-slate-400">
-            © 2024 BusinessBuilderAI. All rights reserved.
+            © 2025 BusinessBuilderAI. All rights reserved.
           </p>
         </div>
       </div>
