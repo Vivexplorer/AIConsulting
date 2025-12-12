@@ -32,7 +32,7 @@ const plans = [
   },
   {
     name: 'Enterprise',
-    price: '199',
+    price: '199/month',
     description: 'For large organizations',
     features: [
       'Unlimited team members',
