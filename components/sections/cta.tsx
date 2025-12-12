@@ -32,7 +32,11 @@ export function CTA() {
                 variant="outline"
                 className="border-2 border-white text-white hover:bg-white/10 transition-all duration-300 text-lg px-8 py-6"
               >
-                Schedule a Free Demo
+                
+                <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                Schedule A Free Demo
+                </a>
+
               </Button>
             </div>
             <p className="text-blue-100 mt-8 text-sm">
