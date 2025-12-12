@@ -22,7 +22,7 @@ const features = [
   },
   {
     icon: BarChart3,
-    title: 'AI - Phone Caller',
+    title: 'Phone Assistant',
     description: 'Our AI-powered phone assistant will connect with your customers, answer questions, and book appointments.',
     color: 'from-teal-500 to-teal-600',
   },
