@@ -33,7 +33,7 @@ export function CTA() {
                 className="border-2 border-white text-white hover:bg-white/10 transition-all duration-300 text-lg px-8 py-6"
               >
                 
-                <a href="https://docs.google.com/forms/d/1fBRTyLz0cuZVI2sjfiioKaCMwia9DMR50gvKD3ZVJD0/edit" target="_blank" rel="noopener noreferrer">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7lpDcPhGG3IxERZ95dFMSxCQCCjuklDFLsLbzcXEmIL-gvw/viewform?usp=header" target="_blank" rel="noopener noreferrer">
                   Schedule A Free Demo
                 </a>
 
