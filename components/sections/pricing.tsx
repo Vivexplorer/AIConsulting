@@ -12,9 +12,6 @@ const plans = [
     features: [
       'Up to 5 team members',
       '10 GB storage',
-      'Basic analytics',
-      'Email support',
-      'Core integrations',
     ],
     popular: false,
   },
