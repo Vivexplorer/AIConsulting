@@ -31,8 +31,9 @@ const plans = [
     price: '100',
     description: 'For large organizations, price varies depending on services',
     features: [
-      'U',
-      'Unlimited storage',
+      'Website Updates',
+      'Recurring Ad Creation',
+      'Customized Marketing Campaigns',
     ],
     popular: false,
   },
