@@ -17,7 +17,7 @@ const plans = [
   },
   {
     name: 'Full AI Start Up',
-    price: '1,000',
+    price: '2,000',
     description: 'For growing teams and businesses',
     features: [
       'Full Tailored Website',
@@ -27,20 +27,14 @@ const plans = [
     popular: true,
   },
   {
-    name: 'Enterprise',
+    name: 'Monthly Marketing',
     price: '100',
     description: 'For large organizations',
     features: [
-      'Unlimited team members',
+      'U',
       'Unlimited storage',
-      'Enterprise analytics',
-      '24/7 dedicated support',
-      'All integrations',
-      'Custom workflows',
-      'Advanced security',
-      'SLA guarantee',
     ],
-    popular: false,
+    popular: true,
   },
 
   
