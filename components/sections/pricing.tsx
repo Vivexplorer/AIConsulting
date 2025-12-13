@@ -29,12 +29,12 @@ const plans = [
   {
     name: 'Monthly Marketing',
     price: '100',
-    description: 'For large organizations',
+    description: 'For large organizations, price varies depending on services',
     features: [
       'U',
       'Unlimited storage',
     ],
-    popular: true,
+    popular: false,
   },
 
   
