@@ -4,7 +4,25 @@ import { Navigation } from '@/navigation'
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { CheckCircle2 } from 'lucide-react';
 
+export function Navigation() {
+  const [isScrolled, setIsScrolled] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 10);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToSection = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth'  });
+      setIsMobileMenuOpen(false);
+    }
+  };
 
 const plans = [
   {
