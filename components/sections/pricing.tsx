@@ -97,7 +97,8 @@ export function Pricing() {
                   ))}
                 </ul>
                 <Button
-                  
+                  onClick={() => scrollToSection('cta')}
+
 
                   className={`w-full ${
                     plan.popular
