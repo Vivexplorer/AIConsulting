@@ -19,12 +19,6 @@ const footerLinks = {
     { name: 'Support', href: '#' },
     { name: 'Status', href: '#' },
   ],
-  legal: [
-    { name: 'Privacy', href: '#' },
-    { name: 'Terms', href: '#' },
-    { name: 'Cookie Policy', href: '#' },
-    { name: 'Licenses', href: '#' },
-  ],
 };
 
 export function Footer() {
