@@ -30,30 +30,22 @@ export function Hero() {
             </span>
           </h1>
 
-          <p className="text-xl text-slate-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-            Smart AI-Powered solutions for marketing, websites, ads, and growth 
-            tailored for small and medium businesses.
-          </p>
-
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
-            <Button
-              size="lg"
-              className="bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 text-lg px-8 py-6"
-            >
-              Start Free Trial
-              <ArrowRight className="ml-2 w-5 h-5" />
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-2 border-slate-300 hover:border-blue-600 hover:text-blue-600 transition-all duration-300 text-lg px-8 py-6"
-            >
-              Watch Demo
-            </Button>
-          </div>
-
           
-        </div>
+
+          {/* <div className="relative max-w-5xl mx-auto">
+            <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-2xl blur-2xl opacity-20" />
+            <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 p-2">
+              <div className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-8 aspect-video flex items-center justify-center">
+                <div className="text-center">
+                  <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-2xl mx-auto mb-4 flex items-center justify-center animate-pulse">
+                    <Zap className="w-10 h-10 text-white" />
+                  </div>
+                  <p className="text-slate-400 text-lg">Product Preview</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> */}
       </div>
     </section>
   );
