@@ -3,7 +3,6 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { CheckCircle2 } from 'lucide-react';
 
-
 const plans = [
   {
     name: 'Consultation + Demo',
@@ -37,11 +36,16 @@ const plans = [
     ],
     popular: false,
   },
-
-  
 ];
 
 export function Pricing() {
+  const scrollToCTA = () => {
+    const element = document.getElementById('cta');
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <section id="pricing" className="py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-7xl mx-auto">
@@ -50,7 +54,7 @@ export function Pricing() {
             Simple, Transparent Pricing
           </h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
-            Choose the perfect plan for your business. 
+            Choose the perfect plan for your business.
           </p>
         </div>
 
@@ -96,10 +100,7 @@ export function Pricing() {
                   ))}
                 </ul>
                 <Button
-
-                  
-
-
+                  onClick={scrollToCTA}
                   className={`w-full ${
                     plan.popular
                       ? 'bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white'
