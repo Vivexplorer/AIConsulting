@@ -35,6 +35,7 @@ export function Hero() {
             tailored for small and medium businesses.
           </p>
 
+          
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
             <Button
               size="lg"
@@ -52,7 +53,7 @@ export function Hero() {
             </Button>
           </div>
 
-          {/* <div className="relative max-w-5xl mx-auto">
+          <div className="relative max-w-5xl mx-auto">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-2xl blur-2xl opacity-20" />
             <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 p-2">
               <div className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-8 aspect-video flex items-center justify-center">
@@ -65,7 +66,7 @@ export function Hero() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
       </div>
     </section>
   );
