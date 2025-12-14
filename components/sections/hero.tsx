@@ -60,7 +60,7 @@ export function Hero() {
                   <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-2xl mx-auto mb-4 flex items-center justify-center animate-pulse">
                     <Zap className="w-10 h-10 text-white" />
                   </div>
-                  <p className="text-slate-400 text-lg">Product Preview</p>
+                  
                 </div>
               </div>
             </div>
