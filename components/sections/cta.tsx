@@ -28,16 +28,19 @@ export function CTA() {
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
               <Button
-                size="lg"
-                variant="outline"
-                className="border-2 border-white text-white hover:bg-white/10 transition-all duration-300 text-lg px-8 py-6"
-              >
-                
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7lpDcPhGG3IxERZ95dFMSxCQCCjuklDFLsLbzcXEmIL-gvw/viewform?usp=header" target="_blank" rel="noopener noreferrer">
-                  Schedule A Free Demo
-                </a>
+  size="lg"
+  variant="outline"
+  className="border-2 border-white text-white bg-white/10 transition-all duration-300 text-lg px-8 py-6"
+>
+  <a
+    href="https://docs.google.com/forms/d/e/1FAIpQLSd7lpDcPhGG3IxERZ95dFMSxCQCCjuklDFLsLbzcXEmIL-gvw/viewform?usp=header"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Schedule A Free Demo
+  </a>
+</Button>
 
-              </Button>
             </div>
             <p className="text-blue-100 mt-8 text-sm">
               No credit card required • Cancel anytime
