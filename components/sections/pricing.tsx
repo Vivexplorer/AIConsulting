@@ -28,7 +28,7 @@ const plans = [
   {
     name: 'Monthly Marketing',
     price: '100',
-    description: 'For large organizations, price varies depending on services',
+    description: 'Price varies depending on services',
     features: [
       'Website Updates',
       'Recurring Ad Creation',
