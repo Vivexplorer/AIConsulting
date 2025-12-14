@@ -49,7 +49,7 @@ export function Features() {
             Everything You Need
           </h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
-            Powerful features designed to help you work smarter and achieve more
+            Powerful features designed to market your business at the next level
           </p>
         </div>
 
