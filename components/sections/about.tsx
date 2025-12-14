@@ -16,9 +16,7 @@ export function About() {
               Built for Modern Businesses
             </h2>
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              At BusinessBuilderAI, we believe local businesses deserve the same powerful tools as global enterprises. Our consulting services combine advanced AI technology with practical business strategies to deliver measurable                results.
-              
-              Whether you’re a restaurant filling more tables, a retail shop boosting online sales, or a service provider streamlining operations, we tailor solutions to your unique needs. Our mission is simple: empower small and                 medium-sized businesses to grow faster, smarter, and more efficiently
+              At BusinessBuilderAI, we believe local businesses deserve the same powerful tools as global enterprises. Our consulting services combine advanced AI technology with practical business strategies to deliver measurable                results. We tailor innovative solutions to your unique needs. Our mission is simple: empower small and medium-sized businesses to grow faster, smarter, and more efficiently
 
             </p>
             <div className="space-y-4 mb-8">
