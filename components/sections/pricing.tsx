@@ -1,6 +1,5 @@
 'use client';
 import { Button } from '@/components/ui/button';
-import { Navigation } from '@/navigation'
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { CheckCircle2 } from 'lucide-react';
 
