@@ -28,7 +28,7 @@ export function Testimonials() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-slate-900 mb-4">
-            Loved by Teams Worldwide
+            Loved by Our Community
           </h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
             See what our customers have to say about their experience
