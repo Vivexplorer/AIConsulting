@@ -35,12 +35,12 @@ export function About() {
             <div className="relative grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <div className="bg-white rounded-2xl shadow-xl border border-slate-200 p-8 hover:scale-105 transition-transform duration-300">
-                  <div className="text-4xl font-bold text-blue-600 mb-2">50K+</div>
-                  <div className="text-slate-600">Active Users</div>
+                  <div className="text-4xl font-bold text-blue-600 mb-2">5+</div>
+                  <div className="text-slate-600">Active Business Users</div>
                 </div>
                 <div className="bg-white rounded-2xl shadow-xl border border-slate-200 p-8 hover:scale-105 transition-transform duration-300">
                   <div className="text-4xl font-bold text-cyan-600 mb-2">99.9%</div>
-                  <div className="text-slate-600">Uptime SLA</div>
+                  <div className="text-slate-600">Client Satisfaction</div>
                 </div>
               </div>
               <div className="space-y-4 pt-8">
